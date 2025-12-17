@@ -1,0 +1,19 @@
+{
+  "param":
+  {
+    "CONVModel::conv.weight":[[8,12]]
+  },
+  "output":
+  {
+    "CONVModel::nndct_input_0":[[8,4]],
+    "CONVModel::nndct_conv2d_1":[[8,6]]
+  },
+  "input":
+  {
+
+  },
+  "fast_finetuned":false,
+  "bias_corrected":true,
+  "version":"3.5.0+60df3f1+torch1.13.1",
+  "graph_md5":"f1ac6444f1ada65e747e2dc904278923"
+}

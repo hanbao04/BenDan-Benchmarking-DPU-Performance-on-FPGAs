@@ -1,0 +1,19 @@
+{
+  "param":
+  {
+    "GEMMModel::gemm.weight":[[8,12]]
+  },
+  "output":
+  {
+    "GEMMModel::nndct_input_0":[[8,5]],
+    "GEMMModel::nndct_dense_1":[[8,6]]
+  },
+  "input":
+  {
+
+  },
+  "fast_finetuned":false,
+  "bias_corrected":true,
+  "version":"3.5.0+60df3f1+torch1.13.1",
+  "graph_md5":"d24e5c5b7dec6c3026bdad29afc493d9"
+}
